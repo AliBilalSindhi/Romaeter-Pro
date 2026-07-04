@@ -1,0 +1,6 @@
+{
+  "name": "Android Custom ROM Hub",
+  "description": "A comprehensive explorer and interactive guide generator for Android custom ROMs, featuring a device compatibility database, custom installation guides, and a server-side Gemini-powered ROM flashing assistant & troubleshooter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
